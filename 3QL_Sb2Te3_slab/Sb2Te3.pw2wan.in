@@ -1,0 +1,10 @@
+
+&inputpp
+  outdir='./tmp/'
+  prefix='Sb2Te3',
+  seedname = 'Sb2Te3'
+  write_mmn = .false.
+  write_amn = .false.
+  write_unk = .false.
+  write_dmn = .true. 
+/
